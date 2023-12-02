@@ -10,6 +10,18 @@ The dataset used is Bikesharing dataset
 - **Name** : Bugi Sulistiyo
 - **Email**: bugisulistiyo@gmail.com
 
+## Setup environment
+```
+python -m venv venv_dicoding
+venv_dicoding\Scripts\activate
+pip install -r requirements.txt
+```
+
+## Run streamlit app
+```
+streamlit run dashboard.py
+```
+
 ## File structures
 - dataset
   - `bikeshare_day.csv` (final dataset used in dashboard)
