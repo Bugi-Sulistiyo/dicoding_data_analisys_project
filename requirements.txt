@@ -1,6 +1,9 @@
 # handling tabular data
 pandas==2.1.3
 
+# handling data
+scipy==1.11.4
+
 # visualization
 matplotlib==3.8.2
 seaborn==0.13.0
